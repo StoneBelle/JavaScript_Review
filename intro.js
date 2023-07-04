@@ -1,3 +1,8 @@
+// Practice JS in Chrome browser
+// Browser > Inspect > Sources > Snippets 
+
+// Snippets is better for multi-line code practice as opposed to console
+
 // Check JS data type
 typeof(true)
 typeof("Cruiser")
