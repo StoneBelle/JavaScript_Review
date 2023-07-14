@@ -1,5 +1,5 @@
 // CONDITIONALS
-// Check for something is in your code before executing something
+// Checks if something is true before executing something
 
 // COMPARATORS
 // === is equal to 
