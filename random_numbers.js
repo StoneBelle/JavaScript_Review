@@ -8,6 +8,6 @@
 var dice = Math.random();
 
 dice = dice * 6;   // Mulitply by 6 since there are 6 sides on a dice
-dice = Math.floor(dice) // Creates random nums (0 - 5)
+dice = Math.floor(dice) // "floor" round down to nearest whole number. This creates random nums (0 - 5)
 dice ++ // Adds 1 so number range is (1 - 6) (pseudo-random)
 console.log(dice);
