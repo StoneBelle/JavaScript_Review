@@ -1,8 +1,8 @@
 // CONDITIONALS
-// Checks if something is true before executing something
+// Checks if something (i.e condition) is true before executing particular code
 
 // COMPARATORS
-// === is equal to 
+// === is equal to
 // !== in not equal to
 // > is greater than 
 // < is less than
